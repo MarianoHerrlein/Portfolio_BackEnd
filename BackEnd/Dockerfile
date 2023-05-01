@@ -1,4 +1,4 @@
-FROM amazoncorretto:11-alphine-jdk
+FROM amazoncorretto:8-alpine-jdk
 
 MAINTAINER marianoherrlein
 
