@@ -14,7 +14,6 @@ com\MiPortfolio\MiPortfolio\Security\Service\RolService.class
 com\MiPortfolio\MiPortfolio\Security\Repository\iUsuarioRepository.class
 com\MiPortfolio\MiPortfolio\Repository\RExperiencia.class
 com\MiPortfolio\MiPortfolio\Entity\Experiencia.class
-.netbeans_automatic_build
 com\MiPortfolio\MiPortfolio\Security\Controller\AuthController.class
 com\MiPortfolio\MiPortfolio\Security\Repository\iRolRepository.class
 com\MiPortfolio\MiPortfolio\Controller\PersonaController.class
