@@ -1,4 +1,4 @@
-FROM amazoncorretto:11
+FROM amazoncorretto:8-al2-jdk
 
 MAINTAINER marianoherrlein
 
