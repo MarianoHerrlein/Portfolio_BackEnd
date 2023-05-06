@@ -1,4 +1,4 @@
-com\MiPortfolio\MiPortfolio\Interface\IPersonaService.class
+com\MiPortfolio\MiPortfolio\Entity\Hys.class
 com\MiPortfolio\MiPortfolio\Security\Dto\NuevoUsuario.class
 com\MiPortfolio\MiPortfolio\Service\ImpPersonaService.class
 com\MiPortfolio\MiPortfolio\Security\Service\UserDetailsImpl.class
@@ -8,10 +8,13 @@ com\MiPortfolio\MiPortfolio\Security\Jwt\JwtEntryPoint.class
 com\MiPortfolio\MiPortfolio\Security\Entity\Usuario.class
 com\MiPortfolio\MiPortfolio\Security\MainSecurity.class
 com\MiPortfolio\MiPortfolio\Entity\Persona.class
+com\MiPortfolio\MiPortfolio\Repository\RHys.class
 com\MiPortfolio\MiPortfolio\Controller\CEducacion.class
 com\MiPortfolio\MiPortfolio\MiPortfolioApplication.class
 com\MiPortfolio\MiPortfolio\Security\Service\RolService.class
+com\MiPortfolio\MiPortfolio\Dto\DtoHys.class
 com\MiPortfolio\MiPortfolio\Security\Repository\iUsuarioRepository.class
+com\MiPortfolio\MiPortfolio\Service\SHys.class
 com\MiPortfolio\MiPortfolio\Repository\RExperiencia.class
 com\MiPortfolio\MiPortfolio\Entity\Experiencia.class
 com\MiPortfolio\MiPortfolio\WebConfig.class
@@ -25,6 +28,8 @@ com\MiPortfolio\MiPortfolio\Entity\Educacion.class
 com\MiPortfolio\MiPortfolio\Security\Jwt\JwtTokenFilter.class
 com\MiPortfolio\MiPortfolio\Security\Dto\JwtDto.class
 com\MiPortfolio\MiPortfolio\Controller\CExperiencia.class
+com\MiPortfolio\MiPortfolio\Dto\DtoPersona.class
+com\MiPortfolio\MiPortfolio\Controller\CHys.class
 com\MiPortfolio\MiPortfolio\Security\Dto\LoginUsuario.class
 com\MiPortfolio\MiPortfolio\Security\Service\UsuarioService.class
 com\MiPortfolio\MiPortfolio\Dto\DtoEducacion.class
