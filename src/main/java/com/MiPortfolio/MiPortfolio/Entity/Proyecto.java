@@ -10,10 +10,9 @@ import javax.validation.constraints.NotNull;
 @Entity
 public class Proyecto {
 
-    @Id
+     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-
-    private int Id;
+    private int id;
 
     @NotNull
     private String nombre;
@@ -40,11 +39,11 @@ public class Proyecto {
     //getter and setter
 
     public int getId() {
-        return Id;
+        return id;
     }
 
-    public void setId(int Id) {
-        this.Id = Id;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getNombre() {
