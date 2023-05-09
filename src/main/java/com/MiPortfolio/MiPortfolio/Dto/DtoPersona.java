@@ -9,7 +9,7 @@ public class DtoPersona {
     private String apellido;
 @NotBlank
     private String descripcion;
-@NotBlank
+//@NotBlack
     private String img;
 
 
